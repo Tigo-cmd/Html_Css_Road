@@ -6,7 +6,7 @@ Getting Started
 
 To get started with the examples and resources in this repository, follow these steps:
 
-    Clone the repository to your local machine using git clone https://github.com/your-username/flexbox-repository.git.
+    Clone the repository to your local machine using git clone https://github.com/Tigo-cmd/flexbox-repository.git.
     Navigate to the repository's directory: cd flexbox-repository.
     Explore the various examples and resources available in the repository.
 
